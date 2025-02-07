@@ -1,2 +1,5 @@
-# post-pruning-experiments
-Experiments in post-training-pruning deep learning models using PyTorch and TensorFlow
+# Post Training Pruning Experiments
+
+## Overview
+This repository contains deep learning model post-training-pruning experiments using PyTorch and TensorFlow. It includes structured and unstructured pruning techniques, layer-wise pruning, and various post-training pruning methods.
+
